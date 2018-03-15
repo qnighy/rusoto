@@ -4,6 +4,8 @@
 - Add example to Rusoto Logs documentation
 - Add custom dev dependency capability to services crategen
 
+- Add GuardDuty service
+
 ## [0.33.1] - 2018-08-07
 
 - Fix `rusoto_mock` versions available
